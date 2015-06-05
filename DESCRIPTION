@@ -7,4 +7,4 @@ Author: Nishith Kumar <nk.bru09@gamil.com>
 Maintainer:  Nishith Kumar <nk.bru09@gamil.com>
 Description: Mean and Variance Calculation Using C program
 Depends: Rcpp
-License: GPL2
+License: GPL-2
