@@ -1,0 +1,10 @@
+Package: menvar
+Type: Package
+Title: Mean Variance Calculation
+Version: 1.0
+Date: 2015-06-04
+Author: Nishith Kumar <nk.bru09@gamil.com>
+Maintainer:  Nishith Kumar <nk.bru09@gamil.com>
+Description: Mean and Variance Calculation Using C program
+Depends: Rcpp
+License: GPL2
