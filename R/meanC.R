@@ -1,4 +1,3 @@
- 
 cppFunction('double meanC(NumericVector x) {
   int n = x.size();
   double total = 0;
@@ -9,4 +8,3 @@ cppFunction('double meanC(NumericVector x) {
   mean=total/n;
   return mean;
 }')
-

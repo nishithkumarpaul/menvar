@@ -1,4 +1,3 @@
-
 cppFunction('double varC(NumericVector x) {
   int n = x.size();
   double total = 0;
